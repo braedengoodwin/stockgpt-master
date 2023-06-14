@@ -1,0 +1,9 @@
+torch
+langchain
+qdrant-client
+lark
+pypdf
+sentence-transformers
+unstructured
+pdf2image
+tabulate
